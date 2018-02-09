@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Programming PIC Microcontrollers with XC8*](http://www.apress.com/9781484232729) by 978-1-4842-3273-6 (Apress, Armstrong Subero).
+This repository accompanies [*Programming PIC Microcontrollers with XC8*](http://www.apress.com/9781484232729) by Armstrong Subero (Apress, 2018).
 
 [comment]: #cover
 ![Cover image](9781484232729.jpg)
